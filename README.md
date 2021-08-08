@@ -6,7 +6,7 @@
 ![doppler](https://user-images.githubusercontent.com/49828672/128625751-63c2fe45-fb20-41f6-9070-823fd455a810.png)
 
 ## 2. Extract red/blue pixel
-![view2](https://user-images.githubusercontent.com/49828672/128625797-0d2159cb-96b6-4adf-ad52-1b9c7bffa431.pngg)
+![view2](https://user-images.githubusercontent.com/49828672/128625797-0d2159cb-96b6-4adf-ad52-1b9c7bffa431.png)
 
 ## 3. Extract blue/white pixel
 ![view3](https://user-images.githubusercontent.com/49828672/128625800-83e27a57-7e63-4f9e-a75e-bdcf2f463a39.png)
