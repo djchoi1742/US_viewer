@@ -10,7 +10,7 @@
 ![view2_2](https://user-images.githubusercontent.com/49828672/128626528-ad533078-cb5b-41fc-9798-456267ea2d1f.png)
 
 ## 3. Extract blue/white pixel
-![view3](https://user-images.githubusercontent.com/49828672/128626532-912425b5-f009-4d42-97ed-f07665de2446.png)
+![view3](https://user-images.githubusercontent.com/49828672/128626592-f74c0e07-c335-4e55-86a0-e05f0c77df4d.png)
 
 ## 4. Extract red&blue pixel
 ![view4](https://user-images.githubusercontent.com/49828672/128626533-2af0811c-1fc4-4c39-bb82-aca461f2a7f9.png)
