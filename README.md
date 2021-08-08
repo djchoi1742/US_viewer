@@ -3,13 +3,14 @@
   - Calculate the number of pixels in each RGB for DICOM files in video format
 
 ## 1. S/W description
-![doppler](https://user-images.githubusercontent.com/49828672/128625751-63c2fe45-fb20-41f6-9070-823fd455a810.png)
+![doppler](https://user-images.githubusercontent.com/49828672/128626525-464dd5a9-b72c-4167-b862-c6d3824439ee.png)
 
 ## 2. Extract red/blue pixel
-![view2](https://user-images.githubusercontent.com/49828672/128626425-46c34d00-c90e-45f4-a2ab-61a25b4728ce.png)
+![view2_1](https://user-images.githubusercontent.com/49828672/128626527-ec468ba4-212c-4b1b-a340-f6a90f00344d.png)
+![view2_2](https://user-images.githubusercontent.com/49828672/128626528-ad533078-cb5b-41fc-9798-456267ea2d1f.png)
 
 ## 3. Extract blue/white pixel
-![view3](https://user-images.githubusercontent.com/49828672/128626428-54c3f201-a978-4954-8bd7-bb58ee21c871.png)
+![view3](https://user-images.githubusercontent.com/49828672/128626532-912425b5-f009-4d42-97ed-f07665de2446.png)
 
 ## 4. Extract red&blue pixel
-![view4](https://user-images.githubusercontent.com/49828672/128626429-afa8c5ef-de35-4d15-85e6-258f08ea2c7c.png)
+![view4](https://user-images.githubusercontent.com/49828672/128626533-2af0811c-1fc4-4c39-bb82-aca461f2a7f9.png)
